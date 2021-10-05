@@ -1,4 +1,4 @@
-# Resositório do Desario GitHub da Digital Innovation One
+# Repositório do Desafio GitHub da Digital Innovation One
 Criação Repositório GitHub para DIO
 
 ## Lins Úteis
