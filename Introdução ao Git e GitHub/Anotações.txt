@@ -1,0 +1,8 @@
+# O que é o Git Bash?
+
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+**Link para Download:** https://git-scm.com/downloads
+
+
+
